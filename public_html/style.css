@@ -1,0 +1,84 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    color: #333333;
+    font-family: verdana;
+}
+
+h1{
+    font-size: 200%;
+}
+
+h2{
+    font-size: 150%;
+    font-weight: normal;
+}
+
+h3{
+    font-size: 80%;
+}
+
+header{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header img{
+    width: auto;
+    height: 100px;
+}
+
+header nav#menu{
+    background-color: #831D1D;
+    border-top: 1px solid #831D1D;
+    border-bottom: 1px solid #831D1D;
+}
+
+header nav#menu a{
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 14px 10px;
+    display: inline-block;
+}
+
+header nav#menu a.active{
+    background-color: #FFFFFF;
+    color: #000000;
+    font-weight: bold;
+}
+
+div.content{
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+}
+
+div.content table#prices{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+div.content table#prices, div.content table#prices th, div.content table#prices td{
+    border: 1px solid #590505;
+}
+
+div.content table#prices th, div.content table#prices td{
+    padding: 15px 10px;
+}
+
+div.content table#prices td{
+    text-align: center;
+}
+
+footer{
+    background-color: #590505;
+    position: relative;
+    margin-top: 50px;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+}
