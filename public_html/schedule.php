@@ -39,29 +39,19 @@
 
     <?php include 'navigation.php'; ?>
 
-    <div class="container">
+    
+    <h1 class="borders center" style="margin:10px 0;">Welcome to the scheduling page!</h1>
+
+
+        </header>
+
+        <div class="container">
+        <div class="content">
     
     <div class="center">
         <img src="img/content/calendar1.png" alt="calendar" class="border-img" />
     </div>
-    
-    <h1 class="borders center" style="margin:10px 0;">Welcome to the scheduling page!</h1>
 
-            <!-- <nav id="menu">
-                <a href="index.html">Home</a>
-                <a href="pricing.html">Pricing</a>
-                <a class="active" href="schedule.html">Schedule</a>
-                <a href="contact.html">Contact</a>
-                <a href="locations.html">Locations</a>
-                <a href="about.html">About</a>
-                <a href="javascript:void(0);" class="icon" onclick="myFunction()"></a>
-            </nav> -->
-    </div>
-
-        </header>
-    
-        <div class="container">
-        <div class="content">
             <ul>
                 <li><label class="borders"><b>Monday-Thursday: 8-5:30pm</label></li>
             </ul>
@@ -76,9 +66,7 @@
         </div>
     </div>
         
-        <footer>
-            <h3 style="font-size:12px; text-align: center">© 2018 Simp. CO. Phone Repair. Trademarks and brands are the property of their respective owners</h3>
-        </footer>
+      <?php include 'footer.php'; ?>
 
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

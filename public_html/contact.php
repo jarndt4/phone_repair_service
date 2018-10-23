@@ -43,31 +43,18 @@
 
     <?php include 'navigation.php'; ?>
 
-  <div class="container">
-      <h1>Contact Information and Social Media</h1>
-
-      <div style="text-align: right;">
-        <img src="img/content/simpco.jpeg" alt="Example of a cracked iPhoneX screen" />
-      </div>
-      
-      
-      <!-- <nav id="menu">
-        <a href="index.html">Home</a>
-        <a href="pricing.html">Pricing</a>
-        <a href="schedule.html">Schedule</a>
-        <a class="active" href="contact.html">Contact</a>
-        <a href="locations.html">Locations</a>
-        <a href="about.html">About</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()"></a>
-      </nav> -->
-
-    </div>
-
     </header>
 
     <div class="container">
 
     <div class="content">
+
+      <h1>Contact Information and Social Media</h1>
+
+      <div style="text-align: right;">
+        <img src="img/content/simpco.jpeg" alt="Example of a cracked iPhoneX screen" />
+      </div>
+
         <p style="font-family:courier;">We just wanted to let you know that we would love to have you guys know that we are on social media. Not 
   only that but we have 24/7 customer support!</p>
 
@@ -110,9 +97,7 @@
 
     </div>
 
-    <footer>
-      <h3 style="font-size:12px;text-align:center">© 2018 Simp. CO. Phone Repair. Trademarks and brands are the property of their respective owners</h3>
-    </footer>
+      <?php include 'footer.php'; ?>
     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
