@@ -39,14 +39,13 @@
 
     <?php include 'navigation.php'; ?>
 
-    
-    <h1 class="borders center" style="margin:10px 0;">Welcome to the scheduling page!</h1>
-
-
         </header>
 
         <div class="container">
         <div class="content">
+    
+   <h1 class="borders center" style="margin:10px 0;">Welcome to the scheduling page!</h1>
+
     
     <div class="center">
         <img src="img/content/calendar1.png" alt="calendar" class="border-img" />

@@ -43,15 +43,16 @@
 		<header>
 
     <?php include 'navigation.php'; ?>    
-    
-              <div class="column">
-                <img src="img/content/get_to_know_us_img.png" alt="Get to know us" class="center" />
-              </div>
+
 		</header>
 
 
 		<div class="container">
 
+
+              <div class="column">
+                <img src="img/content/get_to_know_us_img.png" alt="Get to know us" class="center" />
+              </div>
 
       <h1 align="center">About Us</h1>
 
