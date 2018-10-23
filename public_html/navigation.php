@@ -9,26 +9,26 @@
   <div class="collapse navbar-collapse" id="navbarColor01">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="btn btn-primary" href="index.html" role="button">Home</a>
+        <a class="btn btn-primary" href="index.php" role="button">Home</a>
       </li>
 
       <li class="nav-item">
-        <a class="btn btn-primary" href="pricing.html" role="button">Pricing</a>
+        <a class="btn btn-primary" href="pricing.php" role="button">Pricing</a>
       </li>
 
       <li class="nav-item">
-        <a class="btn btn-primary" href="schedule.html" role="button">Schedule</a>
+        <a class="btn btn-primary" href="schedule.php" role="button">Schedule</a>
       </li>
 
       <li class="nav-item">
-        <a class="btn btn-primary" href="contact.html" role="button">Contact Us</a>
+        <a class="btn btn-primary" href="contact.php" role="button">Contact Us</a>
       </li>
 
       <li class="nav-item">
-        <a class="btn btn-primary" href="locations.html" role="button">Our Locations</a>
+        <a class="btn btn-primary" href="locations.php" role="button">Our Locations</a>
       </li>
 
       <li class="nav-item">
-        <a class="btn btn-primary" href="about.html" role="button">About Us</a>
+        <a class="btn btn-primary" href="about.php" role="button">About Us</a>
       </li>
     </ul>
